@@ -1,0 +1,41 @@
+/* If you want to add your own CSS code, please do it in this file */
+div::-webkit-scrollbar {
+    width: 9px;
+}
+
+div::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.2); 
+}
+
+ul.SDList {
+  margin-left:0em;
+  padding-left:0.2em;
+  margin-bottom:1em;
+}
+
+ul.SDList li {
+  background:url(../images/bullet.gif) 0em 0.5em no-repeat;
+  padding-left: 0.8em;
+  list-style: none;
+}
+
+.post ul { 
+  margin-left:0em; 
+  padding-left:0.2em; 
+  margin-bottom:1em; 
+}
+
+.post ul li { 
+  background:url(../images/bullet.gif) 0em 0.5em no-repeat; 
+  padding-left: 0.8em; 
+  list-style: none; 
+}
+
+/* .post ul { list-style: disc outside; margin: auto; } */
+

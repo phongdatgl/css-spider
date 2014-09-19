@@ -1,0 +1,106 @@
+.tp-caption.small_light{
+	position: absolute; 
+	color: #ffffff; 
+	text-shadow: none; 
+	font-weight: normal; 
+	font-size: 18px; 
+	line-height: 22px; 
+	padding: 3px 4px; 
+	padding-top: 1px;
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color: none;	
+	letter-spacing: 0px;										
+}
+
+.tp-caption.medium_light{
+	position: absolute; 
+	color: #ffffff; 
+	text-shadow: none; 
+	font-weight: normal; 
+	font-size: 31px; 
+	line-height: 31px; 
+	padding: 3px 4px; 
+	padding-top: 1px;
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color: none;	
+	letter-spacing: 0px;											
+}
+
+.tp-caption.large_light{
+	position: absolute; 
+	color: #ffffff; 
+	text-shadow: none; 
+	font-weight: bold; 
+	font-size: 41px; 
+	line-height: 41px; 
+	padding: 3px 4px; 
+	padding-top: 1px;
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color: none;	
+	letter-spacing: 0px;											
+}
+
+.tp-caption.small_dark{
+	position: absolute; 
+	color: #313131; 
+	text-shadow: none; 
+	font-weight: normal; 
+	font-size: 18px; 
+	line-height: 22px; 
+	padding: 3px 4px; 
+	padding-top: 1px;
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color: none;	
+	letter-spacing: 0px;								
+}
+
+.tp-caption.medium_dark{
+	position: absolute; 
+	color: #313131; 
+	text-shadow: none; 
+	font-weight: normal; 
+	font-size: 31px; 
+	line-height: 31px; 
+	padding: 3px 4px; 
+	padding-top: 1px;
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color: none;	
+	letter-spacing: 0px;										
+}
+
+.tp-caption.large_dark{
+	position: absolute; 
+	color: #313131; 
+	text-shadow: none; 
+	font-weight: bold; 
+	font-size: 41px; 
+	line-height: 41px; 
+	padding: 3px 4px; 
+	padding-top: 1px;
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color: none;	
+	letter-spacing: 0px;										
+}
+
+
+
+					
+.tp-caption a { 
+	color: #ff7302; text-shadow: none;	-webkit-transition: all 0.2s ease-out; -moz-transition: all 0.2s ease-out; -o-transition: all 0.2s ease-out; -ms-transition: all 0.2s ease-out;	 
+}			
+	
+.tp-caption a:hover { 
+	color: #ffa902; 
+}

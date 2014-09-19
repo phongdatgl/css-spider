@@ -1,0 +1,78 @@
+/* 
+Theme Name: SavouryDays
+Theme URI: http://www.savourydays.com
+Author: Tahi & Oni
+Author URI: http://www.facebook.com/lihoni515
+Description: Savoury Days WordPress Theme.
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: one-column, two-columns, left-sidebar, right-sidebar, fixed-width, custom-background, custom-header, custom-menu, editor-style, featured-image-header, featured-images, post-formats, theme-options, translation-ready
+Version: 1.4.0
+*/
+
+@import url("css/base.css");
+@import url("css/skeleton.css");
+@import url("css/layout.css");
+@import url("css/variables.css");
+@import url("css/shortcodes.css");
+@import url("css/font-awesome.css");
+@import url("fonts/fontello.css");
+
+/* If you want to add your own css code, please do it in css/custom.css */
+@import url("css/custom.css");
+
+
+#subscribe-by-email-form {
+    margin-bottom: 5px;
+    position: relative;
+}
+
+
+#subscription_email {
+    margin-bottom: 0;
+    width: 200px;
+}
+
+
+#subscribe-by-email-form > input[type="button"] {
+    height: 28px;
+    line-height: 29px;
+    position: absolute;
+    right: -15px;
+    top: 0;
+}
+
+/* Dung them */
+#subscribe-by-email-form > input[type="submit"] {
+    height: 28px;
+    line-height: 29px;
+    position: absolute;
+    right: -15px;
+    top: 0;
+}
+/* end Dung them */
+
+@font-face{
+	font-family:UVNVan;
+	src:url(fonts/UVNVan.TTF);
+}
+
+@font-face{
+	font-family:UVNCHUKY;
+	src:url(fonts/UVNCHUKY.TTF);
+}
+
+@font-face{
+	font-family:UTMAptima;
+	src:url(fonts/UTMAptima.ttf);
+}
+
+@font-face{
+	font-family:UVNNhan_R;
+	src:url(fonts/UVNNhan_R.TTF);
+}
+
+@font-face{
+	font-family:UVNTinTucNhe_R;
+	src:url(fonts/UVNTinTucNhe_R.TTF);
+}

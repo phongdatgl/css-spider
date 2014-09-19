@@ -1,0 +1,36 @@
+var b_txt = '';
+
+// write the badge
+	
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image1"><a href="http://www.flickr.com/photos/55490207@N05/14913048326/"><img src="http://farm6.staticflickr.com/5555/14913048326_781741c323_s.jpg" alt="A photo on Flickr" title="Homemade mooncakes" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image2"><a href="http://www.flickr.com/photos/55490207@N05/14562833833/"><img src="http://farm3.staticflickr.com/2906/14562833833_33299035db_s.jpg" alt="A photo on Flickr" title="Chocolate cherry cupcakes" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image3"><a href="http://www.flickr.com/photos/55490207@N05/14356115539/"><img src="http://farm6.staticflickr.com/5485/14356115539_167f4577be_s.jpg" alt="A photo on Flickr" title="Passion fruit bars" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image4"><a href="http://www.flickr.com/photos/55490207@N05/14050378486/"><img src="http://farm6.staticflickr.com/5446/14050378486_951a57aabd_s.jpg" alt="A photo on Flickr" title="Korean Kimchee" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image5"><a href="http://www.flickr.com/photos/55490207@N05/13886888558/"><img src="http://farm8.staticflickr.com/7396/13886888558_ecf1a979ee_s.jpg" alt="A photo on Flickr" title="Seafood soup with kimchee" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image6"><a href="http://www.flickr.com/photos/55490207@N05/13979983602/"><img src="http://farm3.staticflickr.com/2920/13979983602_7b5644bfd7_s.jpg" alt="A photo on Flickr" title="Strawberry &amp; Yogurt Mousse" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image7"><a href="http://www.flickr.com/photos/55490207@N05/13004328665/"><img src="http://farm8.staticflickr.com/7378/13004328665_8775227e9b_s.jpg" alt="A photo on Flickr" title="Nama chocolate - Green tea powder" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image8"><a href="http://www.flickr.com/photos/55490207@N05/12342263855/"><img src="http://farm4.staticflickr.com/3755/12342263855_e7ab5e804d_s.jpg" alt="A photo on Flickr" title="Heavenly banana &amp; chocolate mousse cake" height="75" width="75"></a></div>';
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image9"><a href="http://www.flickr.com/photos/55490207@N05/11236960005/"><img src="http://farm4.staticflickr.com/3790/11236960005_26ae5e03dc_s.jpg" alt="A photo on Flickr" title="Bún riêu ốc" height="75" width="75"></a></div>';
+
+
+b_txt += '<span style="position:absolute;left:-999em;top:-999em;visibility:hidden" class="flickr_badge_beacon"><img src="http://geo.yahoo.com/p?s=792600102&t=106515003efa38b279d2498d5210347e&fl_ev=0&lang=en&intl=sg" width="0" height="0" alt="" /></span>';
+
+document.write(b_txt);

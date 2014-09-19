@@ -1,0 +1,161 @@
+
+/********************** Fonts **********************/
+
+ 	body, button, input[type="submit"], input[type="reset"], input[type="button"],
+	input[type="text"], input[type="password"], input[type="email"], textarea, select {
+		font-family: Verdana;
+		font-weight: 400;
+	}
+	
+	#menu {
+		font-family: UVNTinTucNhe_R, Arial, Tahoma, sans-serif;
+        font-weight: 300;
+	}
+	
+	h1 {
+		font-family: UTMAptima', Arial, Tahoma, sans-serif;
+		font-weight: 400;
+	}
+	
+	h2 {
+		font-family: UTMAptima, Arial, Tahoma, sans-serif;
+		font-weight: 300;
+	}
+	
+	h3 {
+		font-family: UTMAptima, Arial, Tahoma, sans-serif;
+		font-weight: 700;
+	}
+	
+	h4 {
+		font-family: UTMAptima, Arial, Tahoma, sans-serif;
+		font-weight: 400;
+	}
+	
+	h5 {
+		font-family: UTMAptima, Arial, Tahoma, sans-serif;
+		font-weight: 700;
+	}
+	
+	h6 {
+		font-family: UTMAptima, Arial, Tahoma, sans-serif;
+		font-weight: 700;
+	}
+	
+	
+/********************** Font sizes **********************/
+
+/* Body */
+	body {
+		font-size: 14px;
+				line-height: 22px;
+	}
+	
+	#menu {
+		font-size: 15px;
+				line-height: 23px;
+	}
+	
+/* Grey notes */
+	.Recent_comments li span.date, .Latest_posts li span.date,
+	.Twitter li span.date, .Project_box span.type, .Twitter ul li a {
+		font-size: 12px;
+				line-height: 16px;
+	}
+
+	button, input[type="submit"], input[type="reset"], input[type="button"] {
+		font-size: 13px;
+	}
+
+/* Copy & back to top */
+	#Copy {
+		font-size: 12px;
+	}
+	
+/* Slider */
+	#Slider h3 {
+		font-size: 23px;
+				line-height: 28px;
+	}
+	
+	#Slider h2 {
+		font-size: 42px;
+				line-height: 46px;
+	}
+	
+	#Slider .desc p {
+		font-size: 19px;
+				line-height: 24px;
+	}
+	
+/* Headings */
+	.mfn-slider_tabs li a h5 {
+		font-size: 14px;
+				line-height: 19px;
+	}
+	
+	h1 { 
+		font-size: 28px;
+				line-height: 32px;
+	}
+	
+	h2 { 
+		font-size: 28px;
+				line-height: 32px;
+	}
+	
+	h3 { 
+		font-size: 22px;
+				line-height: 28px;
+	}
+	
+	h4 { 
+		font-size: 18px;
+				line-height: 23px;
+	}
+	
+	h5 { 
+		font-size: 16px;
+				line-height: 21px;
+	}
+	
+	h6 { 
+		font-size: 16px;
+				line-height: 21px;
+	}
+	
+	
+/********************** Position, height & size **********************/
+
+	#Header #logo {
+		top: 30px; 
+		left: -5px; 
+	}
+	
+	#Header .sixteen {
+		height: 120px;
+	}
+	
+	
+/********************** Tablet Portrait size to standard 960 (devices and browsers) **********************/	
+
+	
+	@media only screen and (min-width: 768px) and (max-width: 959px) {
+		#Slider h3 {
+						font-size: 20px;
+						line-height: 25px;
+		}
+		
+		#Slider h2 {
+						font-size: 34px;
+						line-height: 38px;
+		}
+		
+		#Slider .desc p {
+						font-size: 16px;
+						line-height: 21px;
+		}
+	}
+	
+		
+	

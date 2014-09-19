@@ -1,0 +1,47 @@
+/********************** Rounded corners **********************/
+
+ 	/* Thumbnails */
+	.Latest_posts ul li .thumbnail, .Latest_posts ul li .thumbnail img,
+	.trailer_box .thumbnail, .trailer_box .thumbnail img,
+	.Project_box .thumbnail, .Project_box .thumbnail img,
+	.Flickr .flickr_badge_image a, .Flickr .flickr_badge_image a img, .portfolio_item .photo, 
+	.portfolio_item .photo .overlay, .portfolio_item .photo img,
+	.post .image, .post .image img, .wp-caption, .wp-caption img, .wp-caption a, 
+	#comments .commentlist > li .photo, .gallery-icon, .gallery-icon img {
+		-webkit-border-radius: 4px 4px 4px 4px;
+		-moz-border-radius: 4px 4px 4px 4px;
+		border-radius: 4px 4px 4px 4px;
+	}
+	
+	#Header .container {
+		-webkit-border-radius: 0px 0px 10px 10px;
+		-moz-border-radius: 0px 0px 10px 10px;
+		border-radius: 0px 0px 10px 10px;
+	}
+
+	/* Testimonial i pricing box */
+	blockquote, .pricing-box, .widget ul.menu { -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; }
+
+	/* Sociale i buttony np w galerii */
+	.social li, a.control_button { 
+		-moz-border-radius: 22px;
+		-webkit-border-radius: 22px;
+		border-radius: 22px;
+	}	
+	
+	/* Buttons */
+	.button, button, input[type="submit"], input[type="reset"], input[type="button"],
+	input[type="text"], input[type="password"], input[type="email"], textarea, select { 
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+	}
+	
+	/* Portfolio */
+	.single-portfolio .photo,
+	.single-portfolio .photo img {
+		-webkit-border-radius: 4px;
+		-moz-border-radius: 4px;
+		border-radius: 4px;
+	}
+	
